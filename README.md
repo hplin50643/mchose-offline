@@ -1,6 +1,6 @@
 # M HUB 前端鏡像
 
-[開啟設定頁](https://root50643.github.io/mchose-offline/) · [GitHub 儲存庫](https://github.com/root50643/mchose-offline)
+[開啟設定頁](https://hplin50643.github.io/mchose-offline/) · [GitHub 儲存庫](https://github.com/hplin50643/mchose-offline)
 
 目前版本為 **2.1.0**。保存 M HUB 原站的前端、設定檔及靜態資源，透過 GitHub Pages 載入，保留原站介面、文字與操作功能。登入、雲端同步、社群、通知與使用者上傳內容仍使用原廠服務。
 
